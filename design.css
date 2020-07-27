@@ -1,0 +1,38 @@
+ 
+body {
+    background-image: url("/pictures/global.jpg");
+    width: 60%;
+    height: 60%;
+}
+ /* #North  {
+    display: none;
+
+} 
+#South {
+    display: none;
+
+} 
+#Europe  {
+    display: none;
+
+} 
+#A  {
+    display: none;
+
+} 
+#Africa  {
+    display: none;
+
+}  */
+.continent {
+    display: none;
+}
+#Gameover {
+    display: none;
+}
+#win {
+    display: none;
+}
+/* .country {
+    display: none
+} */
